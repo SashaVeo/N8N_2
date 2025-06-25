@@ -19,8 +19,8 @@ services:
       - key: N8N_PROTOCOL
         value: "http"
       - key: WEBHOOK_TUNNEL_URL
-        value: "https://n8n-YOURNAME.onrender.com"
+        value: "https://n8n-dimka.onrender.com"
       - key: N8N_EDITOR_BASE_URL
-        value: "https://n8n-YOURNAME.onrender.com"
+        value: "https://n8n-dimka.onrender.com"
       - key: N8N_ENABLE_COMMUNITY_PACKAGES
         value: "true"
